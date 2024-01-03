@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OPSC7312_POE</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_maps_API_key">AIzaSyDraasYzIi1_vW1Rni208_Pj1Z1u8gBdGE</string>
+</resources>

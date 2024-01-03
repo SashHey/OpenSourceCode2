@@ -1,0 +1,12 @@
+Changes made according to feedback:
+
+1. runs on mobile device
+2. UI improvement to be user-friendly 
+3. demonstration video provided
+4. connecting to google services and firebase databse
+5. prepared for publishing
+6. save and display list of favourited landmarks/destinations
+7. settings to change between metric and imperial
+8. display distance to destination
+9. display user's location
+10. APK attached
